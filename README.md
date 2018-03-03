@@ -36,4 +36,4 @@ An HACKccessibility wizard will help developers to document undocumented code an
 - [] expand the list of features of the wizard 
 - [] iterate over code repos, increasing the list of features
 
-Do you have a repo with some code that has little documentation? Register it to the [list of test repos](https://gitlab.com/jibe-b/HACKccessibility-expose-the-documentation/issues/3!
+Do you have a repo with some code that has little documentation? Register it to the [list of test repos](https://gitlab.com/jibe-b/HACKccessibility-expose-the-documentation/issues/3)!
