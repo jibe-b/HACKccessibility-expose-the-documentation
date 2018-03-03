@@ -29,6 +29,8 @@ An HACKccessibility wizard will help developers to document undocumented code an
 - Come discuss about the general architecture of the wizard [in the issues](https://gitlab.com/jibe-b/HACKccessibility-expose-the-documentation/issues)
 - pull requests are highly welcome!
 
+As a rule of thumb, contributors should follow the [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/)
+
 
 ## Roadmap
 
