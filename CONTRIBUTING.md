@@ -20,8 +20,6 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 
 Take a look at the issues in our [current milestone](https://gitlab.com/jibe-b/HACKccessibility-expose-the-documentation/milestone/1) or browse some [good first bugs](https://gitlab.com/jibe-b/HACKccessibility-expose-the-documentation/issues) to get started!
 
-Take a look at this [Roadmapping exercise](http://mozillascience.github.io/working-open-workshop/roadmapping/) to start making your own milestones and issues. This will help newcomers (& MozFest attendees!) know where they can help.
-
 ## How to submit changes
 
 Explain how you want contributors to propose changes. For an example GitHub workflow, see Node.js's [instructions for code contributions](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md#code-contributions).
