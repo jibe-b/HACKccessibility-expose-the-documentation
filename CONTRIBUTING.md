@@ -38,4 +38,4 @@ First time contributing to open source? Check out this *free* series, [How to Co
 
 ## Communication channels
 
-If it gets needed, a gitter channel may be used.
+During development sprints, a conf'call channel will be available. [Join the conf'call](https://framatalk.org/HACKccessibility-expose-the-documentation).
