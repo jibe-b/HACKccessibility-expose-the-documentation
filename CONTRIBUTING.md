@@ -14,7 +14,7 @@ Please read the contribution guidelines to achieve the best interaction with the
 
 ## Participation guidelines
 
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [EMAIL].
+This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to user701@orange.fr .
 
 ## What we're working on
 
