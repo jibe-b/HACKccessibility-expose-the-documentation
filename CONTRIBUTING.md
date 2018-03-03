@@ -6,9 +6,6 @@ HACKccessibility-expose-the-documentation is about building a wizard to help wri
 
 Please read the contribution guidelines to achieve the best interaction with the community.
 
-
-If your guide is long, consider adding a table of contents.
-
 * [Participation guidelines](#participation-guidelines)
 * [What we're working on](#what-were-working-on)
 * [How to submit changes](#how-to-submit-changes)
