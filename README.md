@@ -36,8 +36,8 @@ As a rule of thumb, contributors should follow the [Mozilla Community Participat
 
 ## Roadmap
 
-- [ ] first prototype of the wizard (go see the [dev branch](https://gitlab.com/jibe-b/HACKccessibility-expose-the-documentation/tree/dev))
-- [ ] expand the list of features of the wizard 
-- [ ] iterate over code repos, increasing the list of features
+- [ ] (doing) first prototype of the wizard (go see the [dev branch](https://gitlab.com/jibe-b/HACKccessibility-expose-the-documentation/tree/dev))
+- [ ] (soon) expand the list of features of the wizard 
+- [ ] (on the long term) iterate over code repos, increasing the list of features
 
 Do you have a repo with some code that has little documentation? Register it to the [list of test repos](https://gitlab.com/jibe-b/HACKccessibility-expose-the-documentation/issues/3)!
